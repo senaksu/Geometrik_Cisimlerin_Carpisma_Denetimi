@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\bin\Debug\cisimcarpismadenetim.exe.config
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\bin\Debug\cisimcarpismadenetim.exe
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\bin\Debug\cisimcarpismadenetim.pdb
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.Form1.resources
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.Properties.Resources.resources
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.csproj.GenerateResource.cache
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.exe
+C:\Users\user\Desktop\nesneye dayalı programlama proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.pdb
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\bin\Debug\cisimcarpismadenetim.exe.config
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\bin\Debug\cisimcarpismadenetim.exe
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\bin\Debug\cisimcarpismadenetim.pdb
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.csproj.AssemblyReference.cache
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.Form1.resources
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.Properties.Resources.resources
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.csproj.GenerateResource.cache
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.csproj.CoreCompileInputs.cache
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.exe
+C:\Users\sena\Desktop\mtü\b211210008ndp_proje\cisimcarpismadenetim\cisimcarpismadenetim\obj\Debug\cisimcarpismadenetim.pdb
